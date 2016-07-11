@@ -1,0 +1,13 @@
+PODS:
+  - Kiwi (2.4.0)
+  - MJExtension (3.0.11)
+
+DEPENDENCIES:
+  - Kiwi (~> 2.4.0)
+  - MJExtension (~> 3.0.11)
+
+SPEC CHECKSUMS:
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+  MJExtension: f9ae6ddc0f1c482c3c9af750280ccebd14381958
+
+COCOAPODS: 0.39.0
